@@ -1,0 +1,1 @@
+enum AppRouteName { splash, login }
